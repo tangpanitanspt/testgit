@@ -18,6 +18,7 @@ namespace WebApplication1.Controllers
             //comment sddd
             // tangpanitan
             //comment sddd aaaaaa
+            int i = 1;
             return View();
         }
 
