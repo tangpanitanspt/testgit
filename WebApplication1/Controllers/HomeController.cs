@@ -18,7 +18,7 @@ namespace WebApplication1.Controllers
             //comment sddd
             // tangpanitan
             //comment sddd aaaaaa
-            string u = "111";
+            //string u = "111";
             int i = 1;
             return View();
         }
