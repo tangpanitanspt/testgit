@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            //comment
+            //comment s
             return View();
         }
 
